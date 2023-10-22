@@ -1,6 +1,7 @@
 # Dotfiles for:
-[x] Hyprland
-[x] Kitty
-[x] Neovim
-[ ] tmux
-[ ] bash
+
+ - [x] Hyprland
+ - [x] Kitty
+ - [x] Neovim
+ - [ ] tmux
+ - [ ] bash
