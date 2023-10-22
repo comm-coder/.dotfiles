@@ -1,4 +1,3 @@
-./BraveSoftware
-./procps
-./nvim/lazy
-./nvim/mason
+/BraveSoftware/**
+/nvim/lazy/**
+/nvim/mason/**
