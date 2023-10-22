@@ -20,8 +20,6 @@ require("lazy").setup({
     { "neovim/nvim-lspconfig",           lazy = true },
     { "williamboman/mason.nvim",         lazy = true },
     { "williamboman/mason-lspconfig",    lazy = true },
-    { "nvim-telescope/telescope.nvim",   lazy = true,
-        dependencies = { "nvim-lua/plenary.nvim" } }
 },{
     root = vim.fn.stdpath("config") .. "/lazy",
     lockfile = vim.fn.stdpath("config") .. "/lazy/lazy-lock.json",

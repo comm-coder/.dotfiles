@@ -24,7 +24,6 @@ vim.g.mapleader = " "
 
 require("plugins")
 require("plugins.mason")
-require("plugins.telescope")
 require("keymaps")
 
 vim.cmd("colorscheme catppuccin")
